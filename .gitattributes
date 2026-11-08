@@ -1,0 +1,10 @@
+# Scripts Linux: conservar LF
+*.sh text eol=lf
+
+# Scripts PowerShell: conservar CRLF
+*.ps1 text eol=crlf
+
+# Archivos de texto generales
+*.py text eol=lf
+*.md text eol=lf
+Dockerfile text eol=lf
